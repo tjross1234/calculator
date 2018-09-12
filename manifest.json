@@ -1,5 +1,12 @@
 {
- "name": "App",
+ "name": "Calculator",
+ "short_name": "Calculator",
+ "description": "Calculator PWA",
+ "lang": "en-GB",
+ "start_url": "/",
+ "display": "standalone",
+ "theme_color": "#E6E6FA",
+ "background_color": "#E6E6FA",
  "icons": [
   {
    "src": "\/icons/android-icon-36x36.png",
