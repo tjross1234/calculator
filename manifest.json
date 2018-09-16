@@ -3,7 +3,7 @@
  "short_name": "Calculator",
  "description": "Calculator PWA",
  "lang": "en-GB",
- "start_url": "/calculator/calc.html",
+ "start_url": "calculator/calc.html",
  "display": "standalone",
  "theme_color": "#E6E6FA",
  "background_color": "#E6E6FA",
